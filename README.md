@@ -167,3 +167,14 @@ Don't change the order of the elements that are left.
 * Input: [5,3,2,1,4], output = [5,3,2,4]
 * Input: [2,2,1,2,1], output = [2,2,2,1]
 ```
+
+
+
+## Isogram ##
+
+*Description*:
+
+An isogram is a word that has no repeating letters, consecutive or non-consecutive.
+Implement a function that determines whether a string that contains only letters is an isogram.
+Assume the empty string is an isogram. Ignore letter case.
+
