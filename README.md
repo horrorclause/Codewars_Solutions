@@ -178,3 +178,25 @@ An isogram is a word that has no repeating letters, consecutive or non-consecuti
 Implement a function that determines whether a string that contains only letters is an isogram.
 Assume the empty string is an isogram. Ignore letter case.
 
+
+
+## Number of People in the Bus ##
+
+*Description*:
+
+You are provided with a list (or array) of integer pairs.
+Elements of each pair represent number of people get into bus (The first item) and
+number of people get off the bus (The second item) in a bus stop.
+
+Your task is to return number of people who are still in the bus after the last bus station (after the last array).
+Even though it is the last bus stop, the bus is not empty and some people are still in the bus,
+and they are probably sleeping there :D
+
+
+*Examples*:
+
+```
+([[10,0],[3,5],[5,8]]),5
+([[3,0],[9,1],[4,10],[12,2],[6,1],[7,10]]),17
+([[3,0],[9,1],[4,8],[12,2],[6,1],[7,8]]),21
+```
