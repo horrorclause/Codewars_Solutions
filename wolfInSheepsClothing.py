@@ -1,5 +1,4 @@
-#!/usr/bin/python3
-
+#!/usr/bin/env python3
 """
 Codewars: A Wolf in Sheep's Clothing
 
